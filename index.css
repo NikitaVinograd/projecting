@@ -50,7 +50,7 @@
 
 .banner-section{
     padding: 100px 0;
-    background: url(img/1614272719_9-p-chernii-fon-abstraktsiya-13.jpg);
+    background: url(src/static/img/1614272719_9-p-chernii-fon-abstraktsiya-13.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -117,7 +117,7 @@
 /* FOOTER */
 
 .footer{
-    background: url(img/footer-bg.jpg);
+    background: url(src/static/img/footer-bg.jpg);
     background-size: cover;
     padding: 100px 50px;
 }
